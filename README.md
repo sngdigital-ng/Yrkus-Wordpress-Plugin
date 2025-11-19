@@ -1,4 +1,4 @@
-# **Yrkus API Shortener**
+# **Yrkus Shortener Wordpress Plugin**
 
 Contributors: Yrkus  
 Version: 1.5  
